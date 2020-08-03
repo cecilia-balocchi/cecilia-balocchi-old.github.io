@@ -1,13 +1,13 @@
 title:            Cecilia Balocchi
 # tagline:          A beautiful theme.
 # description:      Describe your website.
-# canonical: https://ceciliabalocchi.github.io
+# canonical: https://cecilia-balocchi.github.io
 
 # Owner/author information
 owner:
   name:           Cecilia Balocchi
   avatar:         avatar.png
-  bio:            "Postdoc at Unito, PhD in Stats from UPenn."
+  bio:            "Postdoc in Statistics at Unito"
 #  email:          cecilia.balocchi@gmail.com
 #  twitter:        BalocchiCecilia
   github:         cecilia-balocchi
@@ -37,15 +37,19 @@ links:
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Europe/Rome
 future:      true
-highlighter: pygments
+highlighter: rouge
 markdown:    kramdown
 
 kramdown:
-  auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..6
-  use_coderay: false
+  input: GFM
+  hard_wrap: false
+
+# kramdown:
+#   auto_ids: true
+#   footnote_nr: 1
+#   entity_output: as_char
+#   toc_levels: 1..6
+#   use_coderay: false
 
   coderay:
     coderay_line_numbers:
