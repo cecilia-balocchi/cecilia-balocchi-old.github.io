@@ -1,9 +1,9 @@
 ---
-layout: post # post-light-feature
+layout: post-light-feature # 
 title: About me
 tags: [Jekyll, theme, responsive, blog, template]
 image:
-  feature: typewriter.jpg
+  feature: chile1.jpg
 ---
 
 <!-- ![Cecilia Balocchi](images/cecilia_square.jpg) -->
