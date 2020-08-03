@@ -15,10 +15,10 @@ At the same time, I joined the [Allievi Honors Program](https://www.carloalberto
 
 - University of Torino, Postdoctoral researcher in Statistics, 2020 - present.
 
-- The Wharton School, The University of Pennsylvania, PhD Student in Statistics, 2015 - 2020.
+- The Wharton School, The University of Pennsylvania, PhD in Statistics, 2015 - 2020.
 
 - Collegio Carlo Alberto, M.Sc. in Mathematics and Statistics, with distiction, 2013 - 2015.
 
-- The University of Torino, M.Sc. in Mathematics, 110\/110 cum laude, 2013 - 2015.
+- The University of Torino, M.Sc. in Mathematics, 110/110 cum laude, 2013 - 2015.
 
-- The University of Parma, B.S. in Mathematics, 110\/110 cum laude, 2010 - 2013 
+- The University of Parma, B.S. in Mathematics, 110/110 cum laude, 2010 - 2013 
