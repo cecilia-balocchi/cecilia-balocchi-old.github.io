@@ -288,7 +288,7 @@ header.site-header nav {
         max-height: 800px;
         position: absolute;
         z-index: 2;
-        background: rgba(0,0,0,.55);
+        background: rgba(0,0,0,.1); /*  0.1 was 0.55 */
     }
     .overlay-lighter {
         background: rgba(0,0,0,.1);
@@ -494,6 +494,7 @@ header.site-header nav {
         display: block;
         margin: $lh auto;
         @include br(4px);
+        padding: 10px;
     }
     
         table {

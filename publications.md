@@ -6,7 +6,9 @@ description:
 tags: [about, Jekyll, theme, responsive]
 ---
 
-- Deshpande, S. K., Bai, R., *Balocchi, C.*, Starling, J.E. and Jordan W. (2020+). [Estimating the effects of socioeconomic position on cognitive trajectories with Bayesian treed varying coefficient models.](https://arxiv.org/abs/2003.06416)
+### Papers and preprints
+
+- Deshpande, S. K., Bai, R., *Balocchi, C.*, Starling, J.E. and Jordan W. (2020+). [VC-BART: Bayesian trees for varying coefficients.](https://arxiv.org/abs/2003.06416)
 
 - *Balocchi, C.*, Deshpande, S. K., George, E. I. and Jensen, S. T. (2019+). [Crime in Philadelphia: Bayesian Clustering with Particle Optimization.](http://arxiv.org/abs/1912.00111)
 
@@ -14,7 +16,7 @@ tags: [about, Jekyll, theme, responsive]
 
 
 
-## Poster and Talks at Conferences
+### Poster and Talks at Conferences
 
 
 - "Bayesian Spatial Clustering of crime with Particle Optimization."
