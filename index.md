@@ -1,9 +1,9 @@
 ---
-layout: post-light-feature #page
+layout: post-no-feature #page
 title: About me
 tags: [Jekyll, theme, responsive, blog, template]
-image:
-  feature: chile1.jpg
+# image:
+#   feature: chile1.jpg
 ---
 
 <!-- ![image-left](images/cecilia_small.jpg){: .align-left} -->
