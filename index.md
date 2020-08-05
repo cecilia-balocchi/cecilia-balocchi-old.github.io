@@ -1,5 +1,5 @@
 ---
-layout: page #post-light-feature
+layout: post-light-feature #page
 title: About me
 tags: [Jekyll, theme, responsive, blog, template]
 image:
