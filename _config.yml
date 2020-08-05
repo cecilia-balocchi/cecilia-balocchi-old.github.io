@@ -27,8 +27,8 @@ opengraph:
 links:
   - title: CV
     url: /cv
-  - title: RESEARCH
-    url: /research
+  # - title: RESEARCH
+  #   url: /research
   - title: PUBLICATIONS
     url: /publications
   - title: Github
