@@ -6,7 +6,7 @@ description:
 tags: [about, Jekyll, theme, responsive]
 ---
 
-A PDF version of my full CV is available [here]({% link docs/cv_balocchi08_20.pdf %}).
+A PDF version of my full CV is available [here]({% link docs/cv_balocchi.pdf %}).
 
 I completed a Bachelor of Mathematics from the University of Parma, supported by the National Institute of High Mathematics [INdAM](https://www.altamatematica.it/en/), a merit based scholarship.  
 I then got a Master in Mathematics from the University of Torino.  
