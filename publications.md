@@ -8,6 +8,8 @@ tags: [about, Jekyll, theme, responsive]
 
 ### Papers and preprints
 
+- *Balocchi, C.*, Bai, R., Liu, J., Canelón, S. P., George, E. I., Chen, Y., & Boland, M. R. (2020+) [A Bayesian Hierarchical Modeling Framework for Geospatial Analysis of Adverse Pregnancy Outcomes.] (https://arxiv.org/abs/2105.04981)
+
 - Deshpande, S. K., Bai, R., *Balocchi, C.*, Starling, J.E. and Weiss J. (2020+). [VC-BART: Bayesian trees for varying coefficients.](https://arxiv.org/abs/2003.06416)
 
 - *Balocchi, C.*, Deshpande, S. K., George, E. I. and Jensen, S. T. (2019+). [Crime in Philadelphia: Bayesian Clustering with Particle Optimization.](http://arxiv.org/abs/1912.00111)
@@ -16,23 +18,22 @@ tags: [about, Jekyll, theme, responsive]
 
 
 
-### Poster and Talks at Conferences
+### Selected Talks at Conferences
 
+- "Imputing Synthetic Pseudo Data from Aggregate Data: Development and Validation for Precision Medicine"
+Joint work with Massimiliano Russo, Stefano Favaro, Steffen Ventz and Lorenzo Trippa.
+[BaYSM 2021](https://events.stat.uconn.edu/BAYSM2021/), talk.
+
+- "Bayesian Spatial Clustering of Crime in Philadelphia"
+Joint work with Shane T. Jensen, Edward I. George.
+[45th Annual Spring Lecture Series, University of Arkansas](https://fulbright.uark.edu/departments/math/research/spring-lecture-series/spring-lecture-series-archives/45th-spring-lecture-series.php), invited talk.
+
+- "Spatial Clustering of Crime Trends in Urban Environments at Multiple Resolutions"
+Joint work with Shane T. Jensen, Edward I. George.
+[JSM 2020](https://ww2.amstat.org/meetings/jsm/2020/), invited talk.
 
 - "Bayesian Spatial Clustering of crime with Particle Optimization."
 Joint work with Sameer K. Deshpande, Shane T. Jensen, Edward I. George.
-[BAYSM 2018](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/wade/2018baysmconference), talk. 
+[BaYSM 2018](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/wade/2018baysmconference), talk. 
 Best talk award for Theory and Methods. 
-
-- "Prior Choice and Ensemble Particle Optimization for Clustering Areal Data." 
-Joint work with Sameer K. Deshpande, Shane T. Jensen, Edward I. George.
-[ISBA 2018](https://bayesian.org/isba2018/), talk. 
-
-- "Bayesian Spatial Clustering with Particle Optimization."
-Joint work with Sameer K. Deshpande, Shane T. Jensen, Edward I. George.
-[BayesComp 2018](https://www.maths.nottingham.ac.uk/plp/pmztk/bayescomp/), poster. 
-
-- "Non-parametric Spatial Modeling of Changes in Crime over Time."
-Joint work with Shane T. Jensen.
-[BNP 11](https://www.ceremade.dauphine.fr/~salomond/BNP11/), poster. 
 
