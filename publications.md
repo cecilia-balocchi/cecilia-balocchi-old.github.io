@@ -18,7 +18,7 @@ tags: [about, Jekyll, theme, responsive]
 
 
 
-### Selected Talks at Conferences
+### Selected Talks and Conferences
 
 - "Imputing Synthetic Pseudo Data from Aggregate Data: Development and Validation for Precision Medicine"
 Joint work with Massimiliano Russo, Stefano Favaro, Steffen Ventz and Lorenzo Trippa.
