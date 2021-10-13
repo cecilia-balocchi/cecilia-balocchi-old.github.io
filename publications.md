@@ -8,7 +8,7 @@ tags: [about, Jekyll, theme, responsive]
 
 ### Papers and preprints
 
-- *Balocchi, C.*, Bai, R., Liu, J., Canelón, S. P., George, E. I., Chen, Y., & Boland, M. R. (2020+) [A Bayesian Hierarchical Modeling Framework for Geospatial Analysis of Adverse Pregnancy Outcomes.] (https://arxiv.org/abs/2105.04981)
+- *Balocchi, C.*, Bai, R., Liu, J., Canelón, S. P., George, E. I., Chen, Y., & Boland, M. R. (2020+) [A Bayesian Hierarchical Modeling Framework for Geospatial Analysis of Adverse Pregnancy Outcomes.](https://arxiv.org/abs/2105.04981)
 
 - Deshpande, S. K., Bai, R., *Balocchi, C.*, Starling, J.E. and Weiss J. (2020+). [VC-BART: Bayesian trees for varying coefficients.](https://arxiv.org/abs/2003.06416)
 
